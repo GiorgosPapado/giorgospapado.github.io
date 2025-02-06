@@ -1,6 +1,7 @@
 ---
 layout: default
-title: dataset
+title: index
+permalink: /index/
 ---
 
 # Welcome to coco certh spatial
