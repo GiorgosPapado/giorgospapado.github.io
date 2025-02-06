@@ -1,7 +1,7 @@
 ---
 layout: default
-title: indexa
-permalink: /index/
+title: Home
+permalink: /Home/
 ---
 
 # Welcome to coco certh spatial
