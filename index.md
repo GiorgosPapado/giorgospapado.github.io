@@ -32,4 +32,4 @@ Click the button below to download the zip file:
 
 Visit my external page:
 
-<a href="https://your-external-page-url.com" class="btn">Go to Page</a>
+<a href="https://github.com/GiorgosPapado" class="btn">Go to Page</a>
