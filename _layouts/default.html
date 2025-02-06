@@ -12,9 +12,8 @@
             <h1>{{ site.title }}</h1>
             <nav>
                 <ul>
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
                     {% for page in site.pages %}
-                        {% if page.title and page.title != 'Home' %}
+                        {% if page.title %}
                             <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
                         {% endif %}
                     {% endfor %}
@@ -24,16 +23,6 @@
     </header>
     <main class="container">
         {{ content }}
-        <section class="download">
-            <h2>Download</h2>
-            <p>Click the button below to download the zip file:</p>
-            <a href="/assets/download/sample.zip" class="btn">Download Zip</a>
-        </section>
-        <section class="external-link">
-            <h2>External Link</h2>
-            <p>Visit my external page:</p>
-            <a href="https://github.com/GiorgosPapado" class="btn">Go to Page</a>
-        </section>
     </main>
     <footer>
         <div class="container">
