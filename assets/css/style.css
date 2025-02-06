@@ -10,24 +10,19 @@ body {
     line-height: 1.6;
     background: #f4f4f4;
     padding: 20px;
-    text-align: center;
 }
 
-/* Container */
 .container {
     max-width: 800px;
     margin: 0 auto;
     background: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: left; /* Ensures content is aligned properly */
 }
 
-/* Header */
 header {
-    background: #007acc;
-    color: #fff;
-    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 header h1 {
@@ -39,29 +34,60 @@ nav ul {
     display: flex;
     justify-content: center;
     gap: 20px;
-    padding: 0;
 }
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #333;
     font-weight: bold;
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: #007acc;
 }
 
-/* Main content */
 main {
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
-/* Footer (Optional) */
 footer {
     text-align: center;
     padding: 10px;
     background: #333;
     color: #fff;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Download and External Link buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background: #007acc;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background: #005f99;
+}
+
+.download, .external-link {
     margin-top: 20px;
+}
+
+.download p, .external-link p {
+    margin-bottom: 10px;
+}
+
+/* Image styling */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }

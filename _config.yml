@@ -9,7 +9,7 @@ google_analytics:
 header_pages:
   - index.md
   - about.md
-  - project.md
+  - projects.md
   - contact.md
   - introduction.md
   - presentation.md
