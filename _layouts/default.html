@@ -12,9 +12,9 @@
             <h1>{{ site.title }}</h1>
             <nav>
                 <ul>
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/' | relative_url }}">index</a></li>
                     {% for page in site.pages %}
-                        {% if page.title and page.title != 'Home' %}
+                        {% if page.title and page.title != 'index' %}
                             <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
                         {% endif %}
                     {% endfor %}
