@@ -18,7 +18,7 @@ Welcome to my personal website. Here you will find information about my projects
 
 - [About](/about/)
 - [Contact](/contact/)
-- [Introduction](/introduction/)
+- [Intro](/intro/)
 - [Presentation](/presentation/)
 - [Projects](/projects/)
 
