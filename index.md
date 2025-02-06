@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /Home/
+#permalink: /Home/
 ---
 
 # Welcome to coco certh spatial
@@ -17,10 +17,10 @@ Welcome to my personal website. Here you will find information about my projects
 ## Sections
 
 - [About](/about/)
-- [Projects](/projects/)
 - [Contact](/contact/)
 - [Introduction](/introduction/)
 - [Presentation](/presentation/)
+- [Projects](/projects/)
 
 ## Download
 
