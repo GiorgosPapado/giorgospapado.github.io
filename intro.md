@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Introduction
-permalink: /introduction/
+permalink: /intro/
 ---
 
-# Introduction
+# Intro
 
 Welcome to my website. This section provides an introduction about myself.
