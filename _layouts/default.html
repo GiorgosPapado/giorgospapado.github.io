@@ -12,9 +12,8 @@
             <h1>{{ site.title }}</h1>
             <nav>
                 <ul>
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
                     {% for page in site.pages %}
-                        {% if page.title and page.title != 'home' %}
+                        {% if page.title %}
                             <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
                         {% endif %}
                     {% endfor %}
