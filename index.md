@@ -16,11 +16,11 @@ Welcome to my personal website. Here you will find information about my projects
 
 ## Sections
 
-- [About](about)
-- [Projects](projects)
-- [Contact](contact)
-- [Introduction](introduction)
-- [Presentation](presentation)
+- [About](/about/)
+- [Projects](/projects/)
+- [Contact](/contact/)
+- [Introduction](/introduction/)
+- [Presentation](/presentation/)
 
 ## Download
 
