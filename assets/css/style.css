@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
     background: #fff;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
 
 header {
@@ -36,11 +36,11 @@ nav ul {
     gap: 20px;
 }
 
-/* nav a {
+nav a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
-} */
+}
 
 nav a:hover {
     color: #007acc;
