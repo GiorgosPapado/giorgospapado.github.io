@@ -50,7 +50,7 @@ main {
     margin-bottom: 20px;
 }
 
-footer {
+/* footer {
     text-align: center;
     padding: 10px;
     background: #333;
@@ -59,7 +59,7 @@ footer {
 
 footer p {
     margin: 0;
-}
+} */
 
 /* Download and External Link buttons */
 .btn {
