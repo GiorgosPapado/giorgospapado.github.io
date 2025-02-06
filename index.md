@@ -14,13 +14,13 @@ Welcome to my personal website. Here you will find information about my projects
 
 ![Profile Picture](/assets/img/profile.png)
 
-## Sections
+<!-- ## Sections
 
 - [About](/about/)
 - [Contact](/contact/)
 - [Intro](/intro/)
 - [Presentation](/presentation/)
-- [Projects](/projects/)
+- [Projects](/projects/) -->
 
 ## Download
 
