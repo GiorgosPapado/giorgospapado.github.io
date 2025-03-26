@@ -13,3 +13,14 @@ header_pages:
   - intro.md
   - presentation.md
   - projects.md
+  - train.md
+  - test.md
+  - val.md
+  - bbmasks.md
+  - caps.md
+  - depth.md
+  - masks.md
+  - meta.md
+  - questions.md
+  - resized_images.md
+  - raw.md
