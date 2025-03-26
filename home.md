@@ -12,7 +12,7 @@ This is coco certh spatial
 
 Welcome to my personal website. Here you will find information about my projects, background, and how to contact me.
 
-![Profile Picture](/assets/img/profile.png)
+![Profile Picture](/assets/img/COCO_val2014_000000001347.jpg)
 
 <!-- ## Sections
 
