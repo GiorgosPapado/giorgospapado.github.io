@@ -6,4 +6,6 @@ permalink: /contact/
 
 # Contact
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+- GitHub: [GiorgosPapado](https://github.com/GiorgosPapado)
+- Email: TODO(author)
+- LinkedIn: TODO(author)

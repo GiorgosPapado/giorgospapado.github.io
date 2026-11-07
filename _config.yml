@@ -1,25 +1,9 @@
-title: SPATIAL COCO CERTH
-description: here is what i want to see in my description!!!!
-show_downloads: true
-google_analytics:
-#theme: jekyll-theme-minimal
-
-# Navigation links
-header_pages:
-  - about.md
-  - contact.md
-  - home.md
-  - intro.md
-  - presentation.md
-  - projects.md
-  - train.md
-  - test.md
-  - val.md
-  - bbmasks.md
-  - caps.md
-  - depth.md
-  - masks.md
-  - meta.md
-  - questions.md
-  - resized_images.md
-  - raw.md
+title: Georgios Papadopoulos
+description: Personal page of Georgios Papadopoulos (MSc, Digital Media & Computational Intelligence, Aristotle University of Thessaloniki), with a list of projects.
+lang: en
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor

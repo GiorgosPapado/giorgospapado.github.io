@@ -1,14 +1,9 @@
 # giorgospapado.github.io
 
-Jekyll site for the spatial dataset project: dataset description, image/mask/depth samples, train/val/test splits and project presentation.
-
+Personal landing page of Georgios Papadopoulos: a short intro, a project list and contact links.
 Live site: https://giorgospapado.github.io
 
-> TODO: one sentence on what the spatial dataset contains and how big it is.
-
-## Pages
-
-`intro`, `home`, `about`, `projects`, `presentation`, `contact`, plus dataset pages: `raw`, `resized_images`, `masks`, `bbmasks`, `depth`, `caps`, `meta`, `train`, `val`, `test`.
+Pages: Home (`index.md`), Projects (`projects.md`), Contact (`contact.md`). Plain Jekyll with the `github-pages` gem, a single layout, system fonts, no JavaScript, no analytics, no third-party requests. Light/dark follows the visitor's `prefers-color-scheme`. Internal links use `relative_url`, so the site also works under a project path.
 
 ## Run locally
 
@@ -19,14 +14,14 @@ bundle exec jekyll serve
 
 Open http://localhost:4000.
 
-## Related
+## Open items
 
-- [vit-thesis](https://github.com/GiorgosPapado/VIT-Thesis): training code that uses this dataset.
+Search for `TODO(author)` in the pages (role, location, email, LinkedIn, link to efficient-inference once public, and more).
 
-## Attribution
+## Note
 
-The images come from [MS COCO](https://cocodataset.org). Each image remains subject to its individual Flickr licence; see cocodataset.org for details.
+The earlier "SPATIAL COCO CERTH" placeholder site (COCO sample images, dataset pages) was removed; it remains in git history. The SADAMB dataset site now lives in its own repository.
 
 ## License
 
-Code: MIT, see [LICENSE](LICENSE). TODO: state the license for the dataset content (e.g. CC BY 4.0).
+MIT, see [LICENSE](LICENSE).
