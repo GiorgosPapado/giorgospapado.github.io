@@ -1,9 +1,0 @@
-title: Georgios Papadopoulos
-description: Personal page of Georgios Papadopoulos (MSc, Digital Media & Computational Intelligence, Aristotle University of Thessaloniki), with a list of projects.
-lang: en
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - vendor

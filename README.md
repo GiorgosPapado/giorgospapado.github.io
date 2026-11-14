@@ -1,26 +1,10 @@
 # giorgospapado.github.io
 
-Personal landing page of Georgios Papadopoulos: a short intro, a project list and contact links.
-Live site: https://giorgospapado.github.io
+Personal site of Georgios Papadopoulos: a single static page (plain HTML + CSS, no build step, no Jekyll). Source of truth for the content is the portfolio-site project; this repository holds the published build.
 
-Pages: Home (`index.md`), Projects (`projects.md`), Contact (`contact.md`). Plain Jekyll with the `github-pages` gem, a single layout, system fonts, no JavaScript, no analytics, no third-party requests. Light/dark follows the visitor's `prefers-color-scheme`. Internal links use `relative_url`, so the site also works under a project path.
+Preview: `python -m http.server 8000` and open http://localhost:8000.
 
-## Run locally
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Open http://localhost:4000.
-
-## Open items
-
-Search for `TODO(author)` in the pages (role, location, email, LinkedIn, link to efficient-inference once public, and more).
-
-## Note
-
-The earlier "SPATIAL COCO CERTH" placeholder site (COCO sample images, dataset pages) was removed; it remains in git history. The SADAMB dataset site now lives in its own repository.
+Open items are marked as visible `TODO(author)` in `index.html`.
 
 ## License
 
